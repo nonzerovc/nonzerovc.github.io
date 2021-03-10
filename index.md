@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: Seeking NonZero Chances
+title: Seeking Non-Zero Chances
 
 detail_image: assets/nonzerologo.png
 
