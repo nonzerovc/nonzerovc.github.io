@@ -17,8 +17,8 @@ highlighter: rouge
 
 header_pages:
   - index.md
-  - preview.md
-  - read-me.md
+  #- preview.md
+  #- read-me.md
   
 
 # set the size of the text to 'large' or 'small', default is small
