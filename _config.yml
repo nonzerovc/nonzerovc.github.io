@@ -2,8 +2,8 @@ title: "jekyll-shell-theme"
 tagline: "A jekyll theme that looks like a shell/terminal"
 description: "This is a preview of jekyll-shell-theme."
 github_username: tareqdandachi
-baseurl: "/jekyll-shell-theme"
-url: "https://tareqdandachi.github.io"
+baseurl: "/nonzerovc.github.io"
+url: "https://nonzerovc.github.io"
 
 plugins:
   - jemoji
