@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: Seeking Non-Zero Chances
+title: HFSP
 
 detail_image: assets/nonzerologo.png
 
